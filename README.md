@@ -1,4 +1,4 @@
-# 💬 Dify E-commerce Chatbot Agent 
+# 💬 Dify E-commerce AI Agent 
 
 This repository contains the configuration, prompt, and knowledge base for a chatbot built using [Dify Cloud](https://cloud.dify.ai).
 
