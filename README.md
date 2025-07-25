@@ -10,6 +10,7 @@ This chatbot:
 - E-commerce chatbot agent for fictional PC store who Answers product FAQs and guides users through support issues
 - Leverages a **knowledge base** with CSV files
 - Built using [Dify Cloud](https://cloud.dify.ai)
+- Here is the direct link for the chatbot https://udify.app/chat/I9cimnSuSZFXPmdO
   
 ## 📦 Project Structure
 
